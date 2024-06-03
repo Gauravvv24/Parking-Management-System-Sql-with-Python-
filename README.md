@@ -17,7 +17,7 @@ This Python application is a parking management system that allows users to mana
 1. Clone the repository:
 
     ```
-    git clone https://github.com/<username>/parking-management-system.git
+    git clone https://github.com/Gauravvv24/parking-management-system.git
     ```
 
 2. Install the required dependencies:
@@ -62,7 +62,7 @@ This is a simple login system implemented in Python using the Tkinter library fo
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your_username/login-system.git
+   git clone https://github.com/Gauravvv24/login-system.git
    ```
 
 2. **Install Required Packages:**
